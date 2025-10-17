@@ -6,4 +6,8 @@ let album: any;
 myName = 'Henqsoft';
 meaningOfLife = 42;
 isLoading = true;
-album = true
+album = 1984;
+
+const sum = (a: number, b: number): number => {
+    return a + b;
+}
