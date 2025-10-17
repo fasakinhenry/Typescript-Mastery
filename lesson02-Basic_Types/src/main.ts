@@ -6,8 +6,13 @@ let album: any;
 myName = 'Henqsoft';
 meaningOfLife = 42;
 isLoading = true;
-album = 1984;
+album = 'Van Halen';
 
 const sum = (a: number, b: number): number => {
     return a + b;
 }
+
+let postId: string | number;
+let isActive: number | boolean;
+
+let re: RegExp = /\w+/g;
