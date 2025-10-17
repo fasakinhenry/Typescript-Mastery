@@ -1,9 +1,9 @@
-let username = 'Henqsoft';
-console.log(username);
+let myName: string = 'Henry';
+let meaningOfLife: number;
+let isLoading: boolean;
+let album: any;
 
-let a: number = 12;
-let b: string = '6';
-let c: number = 2;
-console.log(a / b);
-console.log(c * b);
-
+myName = 'Henqsoft';
+meaningOfLife = 42;
+isLoading = true;
+album = true
