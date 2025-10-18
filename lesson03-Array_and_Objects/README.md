@@ -1,6 +1,6 @@
-# Lesson 03: Arrays and Objects
+# Lesson 04: functions
 
-This lesson covers the concepts of arrays and objects in TypeScript. You will learn about array types, object types, and how to work with them effectively in TypeScript. You will also see how TypeScript's type system helps catch errors when working with these data structures. You will work with Enums, Tuples, and Interfaces to define complex data structures. You will also see how to make properties of objects optional.
+This lesson covers the concepts of functons in Typescript.
 
 ## Topics Covered
 
