@@ -1,23 +1,22 @@
-# Lesson 01 - Start Here
+# Lesson 02 - Basic Types
 
-This lesson covers the basics of setting up a TypeScript project, including installation, configuration, and compiling TypeScript code to JavaScript.
+This lesson covers the basics of TypeScript's type system, including primitive types, union types, and type assertions.
 
 ## Topics Covered
 
-- Installing TypeScript
-- Setting up `tsconfig.json`
-- Writing my first TypeScript code
-- Compiling TypeScript to JavaScript
-- Running the compiled JavaScript code
-- Understanding TypeScript types
+- Primitive Types: `string`, `number`, `boolean`
+- Union Types
+- The `any` type
+- Function Types
+- Regular Expressions
 
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson01 directory.
+2. Navigate to the lesson02-Basic_Types directory.
 
 ```bash
-cd lesson01
+cd lesson02-Basic_Types
 ```
 3. Install TypeScript globally if you haven't already:
 
