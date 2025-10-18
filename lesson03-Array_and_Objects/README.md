@@ -1,23 +1,24 @@
-# Lesson 01 - Start Here
+# Lesson 03: Arrays and Objects
 
-This lesson covers the basics of setting up a TypeScript project, including installation, configuration, and compiling TypeScript code to JavaScript.
+This lesson covers the concepts of arrays and objects in TypeScript. You will learn about array types, object types, and how to work with them effectively in TypeScript. You will also see how TypeScript's type system helps catch errors when working with these data structures. You will work with Enums, Tuples, and Interfaces to define complex data structures. You will also see how to make properties of objects optional.
 
 ## Topics Covered
 
-- Installing TypeScript
-- Setting up `tsconfig.json`
-- Writing my first TypeScript code
-- Compiling TypeScript to JavaScript
-- Running the compiled JavaScript code
-- Understanding TypeScript types
+- Array Types
+- Object Types
+- Enums
+- Tuples
+- Interfaces
+- Optional Properties
+- Type Safety with Arrays and Objects
 
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson01 directory.
+2. Navigate to the lesson03-Arrays_and_Objects directory.
 
 ```bash
-cd lesson01
+cd lesson03-Arrays_and_Objects
 ```
 3. Install TypeScript globally if you haven't already:
 

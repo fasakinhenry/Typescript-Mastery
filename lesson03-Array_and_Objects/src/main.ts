@@ -59,7 +59,7 @@ let EVH: Guitarist = {
 };
 
 let JP: Guitarist = {
-  name: 'Jimmy',
+  name?: 'Jimmy',
   active: true,
   albums: ['I', 'II', 'III'],
 };
@@ -77,7 +77,7 @@ console.log(greetGuitarist(EVH));
 // "Unlike most TypeScript features, Enums are not a type-level addition to JavaScript but something added to the language and runtime."
 
 enum Grade {
-  U = 1,
+U = 1,
   D,
   C,
   B,
