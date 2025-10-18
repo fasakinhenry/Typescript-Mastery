@@ -14,10 +14,10 @@ This lesson covers the basics of setting up a TypeScript project, including inst
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson01 directory.
+2. Navigate to the lesson01-Start_Here directory.
 
 ```bash
-cd lesson01
+cd lesson01-Start_Here
 ```
 3. Install TypeScript globally if you haven't already:
 
