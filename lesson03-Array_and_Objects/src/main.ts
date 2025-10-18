@@ -59,7 +59,7 @@ let EVH: Guitarist = {
 };
 
 let JP: Guitarist = {
-  name?: 'Jimmy',
+  name: 'Jimmy',
   active: true,
   albums: ['I', 'II', 'III'],
 };
