@@ -1,23 +1,25 @@
-# Lesson 01 - Start Here
+# Lesson 04: functions
 
-This lesson covers the basics of setting up a TypeScript project, including installation, configuration, and compiling TypeScript code to JavaScript.
+This lesson covers the concepts of functons in Typescript.
 
 ## Topics Covered
 
-- Installing TypeScript
-- Setting up `tsconfig.json`
-- Writing my first TypeScript code
-- Compiling TypeScript to JavaScript
-- Running the compiled JavaScript code
-- Understanding TypeScript types
+- Type Aliases
+- Literal types
+- Revision of function types
+- REST parameters
+- The Never type
+- Never type generated automatically by throwing errors
+- Custom type guard
+- Use of the never type
 
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson01 directory.
+2. Navigate to the lesson04-functions directory.
 
 ```bash
-cd lesson01
+cd lesson04-functions
 ```
 3. Install TypeScript globally if you haven't already:
 
