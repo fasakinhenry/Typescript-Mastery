@@ -1,25 +1,24 @@
-# Lesson 04: functions
+# Lesson 03: Arrays and Objects
 
-This lesson covers the concepts of functons in Typescript.
+This lesson covers the concepts of arrays and objects in TypeScript. You will learn about array types, object types, and how to work with them effectively in TypeScript. You will also see how TypeScript's type system helps catch errors when working with these data structures. You will work with Enums, Tuples, and Interfaces to define complex data structures. You will also see how to make properties of objects optional.
 
 ## Topics Covered
 
-- Type Aliases
-- Literal types
-- Revision of function types
-- REST parameters
-- The Never type
-- Never type generated automatically by throwing errors
-- Custom type guard
-- Use of the never type
+- Array Types
+- Object Types
+- Enums
+- Tuples
+- Interfaces
+- Optional Properties
+- Type Safety with Arrays and Objects
 
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson04-functions directory.
+2. Navigate to the lesson03-Arrays_and_Objects directory.
 
 ```bash
-cd lesson04-functions
+cd lesson03-Arrays_and_Objects
 ```
 3. Install TypeScript globally if you haven't already:
 
