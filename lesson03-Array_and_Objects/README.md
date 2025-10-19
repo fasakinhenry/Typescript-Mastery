@@ -4,21 +4,22 @@ This lesson covers the concepts of functons in Typescript.
 
 ## Topics Covered
 
-- Array Types
-- Object Types
-- Enums
-- Tuples
-- Interfaces
-- Optional Properties
-- Type Safety with Arrays and Objects
+- Type Aliases
+- Literal types
+- Revision of function types
+- REST parameters
+- The Never type
+- Never type generated automatically by throwing errors
+- Custom type guard
+- Use of the never type
 
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson03-Arrays_and_Objects directory.
+2. Navigate to the lesson04-functions directory.
 
 ```bash
-cd lesson03-Arrays_and_Objects
+cd lesson04-functions
 ```
 3. Install TypeScript globally if you haven't already:
 
