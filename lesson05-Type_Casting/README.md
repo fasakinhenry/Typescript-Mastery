@@ -1,15 +1,16 @@
-# Lesson 01 - Start Here
+# Lesson 05 - Type Casting
 
-This lesson covers the basics of setting up a TypeScript project, including installation, configuration, and compiling TypeScript code to JavaScript.
+This lesson covers Type Casting, also known as Type Assertion. 
 
 ## Topics Covered
 
-- Installing TypeScript
-- Setting up `tsconfig.json`
-- Writing my first TypeScript code
-- Compiling TypeScript to JavaScript
-- Running the compiled JavaScript code
-- Understanding TypeScript types
+- Definition of Type casting
+- Conversion to a less or more specific type
+- Different keywords for type casting. Using the `as` keyword or angle brackets;
+- Usage of Type Casting
+- Double casting or Forced casting
+- Document Object Model(DOM) types. E.g HTMLImageElement type
+- Simple copyright example to demonstrate types
 
 ## How to run the code
 
@@ -17,7 +18,7 @@ This lesson covers the basics of setting up a TypeScript project, including inst
 2. Navigate to the lesson01 directory.
 
 ```bash
-cd lesson01
+cd lesson05-Type_Casting
 ```
 3. Install TypeScript globally if you haven't already:
 
@@ -29,8 +30,8 @@ npm install -g typescript
 ```bash
 tsc -w
 ```
-5. Open the `src/main.ts` file and make changes to see how TypeScript compiles it to JavaScript in the `build/js` directory.
-6. Go to the build directory and open the `index.html` file in your browser to see the output.
-7. Open the browser console to see the logged output from the TypeScript code. You can use the shortcut `F12` or `Ctrl + Shift + I` (or `Cmd + Option + I` on Mac) to open the developer tools and navigate to the Console tab.
+5. You can also check out the `src/copyright.ts` file to see how the copyright example was implemented.
+6. Optionally open the `src/main.ts` file and make changes to see how TypeScript compiles it to JavaScript in the `build/js` directory.
+7. Go to the build directory and open the `index.html` file in your browser to see the output of the copyright file.
 
 > Made with ❤️ by [Fasakin Henry](https://github.com/fasakinhenry)
