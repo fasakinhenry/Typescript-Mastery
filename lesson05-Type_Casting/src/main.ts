@@ -33,6 +33,6 @@ const img = document.querySelector('img')!;
 const myImg = document.getElementById('#img') as HTMLImageElement;
 const nextImg = <HTMLImageElement>document.getElementById('#img');
 
-img.src
-myImg.src
-nextImg.src
+img.src;
+myImg.src;
+nextImg.src;
