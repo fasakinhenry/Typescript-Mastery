@@ -18,7 +18,7 @@ class Coder {
 }
 
 const Henry = new Coder('Henry', 'Rock', 42);
-console.log(Henry.getAge());
+console.log(Henry.getAge()); // prints "Hello, I'm 42"
 // console.log(Henry.age)
 // console.log(Henry.lang)
 
@@ -66,7 +66,7 @@ class Guitarist implements Musician {
 }
 
 const Page = new Guitarist('Jimmy', 'guitar');
-console.log(Page.play('strums'));
+console.log(Page.play('strums')); // "Jimmy strums the guitar"
 /////////////////////////////////////////////////
 
 class Peeps {
@@ -93,6 +93,8 @@ console.log(Steve.id);
 console.log(Amy.id);
 
 console.log(Peeps.count);
+
+console.log(Peeps.getCount());
 //////////////////////////////////////////////////
 
 class Bands {
@@ -114,10 +116,10 @@ class Bands {
   }
 }
 
-const MyBands = new Bands()
+const MyBands = new Bands();
 MyBands.data = ['Neil Young', 'Led zap'];
-console.log(MyBands.data)
+console.log(MyBands.data);
 MyBands.data = [...MyBands.data, 'ZZ Top'];
-console.log(MyBands.data)
+console.log(MyBands.data);
 // // This will throw an error because of the number
-// MyBands.data = ['Van helen', 5150]; 
+// MyBands.data = ['Van helen', 5150];

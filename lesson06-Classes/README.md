@@ -6,13 +6,8 @@ This lesson covers the concepts of classes and their types in TypeScript.
 
 - The `public`, `private`, `protected` and `static` type for class property initialization.
 - Use of `readonly` property for class properties and methods.
-- Literal types
-- Revision of function types
-- REST parameters
-- The Never type
-- Never type generated automatically by throwing errors
-- Custom type guard
-- Use of the never type
+- Creation of interfaces for Classes
+- Getter and setter methods on Typescript Classes
 
 ## How to run the code
 
@@ -20,7 +15,7 @@ This lesson covers the concepts of classes and their types in TypeScript.
 2. Navigate to the lesson04-functions directory.
 
 ```bash
-cd lesson04-functions
+cd lesson06-Classes
 ```
 3. Install TypeScript globally if you haven't already:
 

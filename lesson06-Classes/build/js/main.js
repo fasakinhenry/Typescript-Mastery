@@ -15,7 +15,7 @@ class Coder {
     }
 }
 const Henry = new Coder('Henry', 'Rock', 42);
-console.log(Henry.getAge());
+console.log(Henry.getAge()); // prints "Hello, I'm 42"
 // console.log(Henry.age)
 // console.log(Henry.lang)
 class webDev extends Coder {
@@ -40,7 +40,7 @@ class Guitarist {
     }
 }
 const Page = new Guitarist('Jimmy', 'guitar');
-console.log(Page.play('strums'));
+console.log(Page.play('strums')); // "Jimmy strums the guitar"
 /////////////////////////////////////////////////
 class Peeps {
     static getCount() {
@@ -60,6 +60,7 @@ console.log(John.id);
 console.log(Steve.id);
 console.log(Amy.id);
 console.log(Peeps.count);
+console.log(Peeps.getCount());
 //////////////////////////////////////////////////
 class Bands {
     constructor() {
@@ -83,5 +84,5 @@ console.log(MyBands.data);
 MyBands.data = [...MyBands.data, 'ZZ Top'];
 console.log(MyBands.data);
 // // This will throw an error because of the number
-// MyBands.data = ['Van helen', 5150]; 
+// MyBands.data = ['Van helen', 5150];
 //# sourceMappingURL=main.js.map
