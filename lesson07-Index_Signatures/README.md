@@ -1,13 +1,12 @@
 # Lesson 07-Index Signatures and Typeof Assertions
 
-This lesson covers the concepts of classes and their types in TypeScript.
+This lesson covers the concepts of Index Signatures for objects and using the typeof assertions to handle known keys in an Object.
 
 ## Topics Covered
 
-- The `public`, `private`, `protected` and `static` type for class property initialization.
-- Use of `readonly` property for class properties and methods.
-- Creation of interfaces for Classes
-- Getter and setter methods on Typescript Classes
+- Index Signatures and where they are needed
+- Using the `keyof` assertions
+- Using the `keyof` assertions in combination with `typeof`
 
 ## How to run the code
 
@@ -15,7 +14,7 @@ This lesson covers the concepts of classes and their types in TypeScript.
 2. Navigate to the lesson04-functions directory.
 
 ```bash
-cd lesson06-Classes
+cd lesson07-Index_Signatures
 ```
 3. Install TypeScript globally if you haven't already:
 
