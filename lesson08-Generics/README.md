@@ -13,7 +13,7 @@ This lesson covers the concepts of generics and how they can help us write codes
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson04-functions directory.
+2. Navigate to the lesson08-Generics directory.
 
 ```bash
 cd lesson08-Generics

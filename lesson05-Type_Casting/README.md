@@ -15,7 +15,7 @@ This lesson covers Type Casting, also known as Type Assertion.
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson01 directory.
+2. Navigate to the lesson05-Type_Casting directory.
 
 ```bash
 cd lesson05-Type_Casting

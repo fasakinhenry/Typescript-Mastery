@@ -12,7 +12,7 @@ This lesson covers the concepts of classes and their types in TypeScript.
 ## How to run the code
 
 1. Ensure you have Node.js installed on your machine.
-2. Navigate to the lesson04-functions directory.
+2. Navigate to the lesson06-Classes directory.
 
 ```bash
 cd lesson06-Classes
