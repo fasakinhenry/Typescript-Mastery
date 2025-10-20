@@ -12,7 +12,7 @@ class Coder {
     this.lang = lang;
   }
 
-  public getAge() {
+  public getAge(): string {
     return `Hello, I,m ${this.age}`;
   }
 }

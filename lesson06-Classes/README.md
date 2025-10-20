@@ -1,10 +1,11 @@
-# Lesson 04: functions
+# Lesson 06-Classes
 
-This lesson covers the concepts of functons in Typescript.
+This lesson covers the concepts of classes and their types in TypeScript.
 
 ## Topics Covered
 
-- Type Aliases
+- The `public`, `private`, `protected` and `static` type for class property initialization.
+- Use of `readonly` property for class properties and methods.
 - Literal types
 - Revision of function types
 - REST parameters
