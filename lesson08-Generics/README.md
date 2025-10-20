@@ -1,12 +1,14 @@
 # Lesson 08-Generics
 
-This lesson covers the concepts of Index Signatures for objects and using the typeof assertions to handle known keys in an Object.
+This lesson covers the concepts of generics and how they can help us write codes whose value type we can't really determine at the time of writing the code.
 
 ## Topics Covered
 
-- Index Signatures and where they are needed
-- Using the `keyof` assertions
-- Using the `keyof` assertions in combination with `typeof`
+- Generics overview
+- Usage of generics
+- How to use generics in interfaces and classes
+- Using the `extends` keyword for generics
+- Examples using generics
 
 ## How to run the code
 
